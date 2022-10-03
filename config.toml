@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseURL = "https://exampleSite.com"
+baseURL = "https://direnakkoc.github.io/Test/"
 languageCode = "en-us"
 title = "Agen | Bootstrap Agency Template"
 theme = "agen-hugo"
